@@ -1,0 +1,14 @@
+name: Proyecto
+title: Proyecto
+username:
+account: juanseripe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5296116
+bundleId: 5348396
+url: https://juanseripe.shinyapps.io/Proyecto/
+when: 1639020978.51604
+lastSyncTime: 1639020978.51606
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Adjuntos/.DS_Store|Adjuntos/Real 2.png|Adjuntos/Real.png|Adjuntos/Screen Shot 2021-12-08 at 19.45.45.png|Adjuntos/Screen Shot 2021-12-08 at 19.45.57.png|Carta.docx|Carta.pdf|Entrega 1.docx|Entrega 1.pdf|Entrega 2.docx|Entrega 2.pdf|Entrega 3.docx|Entrega 3.pdf|Entrega Final.docx|Grupos-FixF.csv|Trabajos-FixF.csv
